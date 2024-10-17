@@ -23,6 +23,10 @@ body {
 
 .cartao_conteudo h3{
     background-color: rgb(#7700ff);
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: ;
 }
 
 
