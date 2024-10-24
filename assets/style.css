@@ -54,7 +54,7 @@ body {
 }
 
 .cartaoo:hover .cartao__conteudo{
-    transform: rotateY(180deg)
+    transform: rotateY(180deg);
 }
 
 
