@@ -53,6 +53,22 @@ body {
     font-weight: 700;
 }
 
+.cartaoo:hover .cartao__conteudo{
+    transform: rotateY(180deg)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer {
     background-color: black;
     color: white;
