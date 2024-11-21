@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é JavaScrip t',
-    'O JavaScript é uma linguagem de programação'
+    'O que é Python ',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    ,
-    pergunta,
-    reposta
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
